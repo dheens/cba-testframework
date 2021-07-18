@@ -1,0 +1,5 @@
+com/au/covidgame/test/BaseTest.class
+com/au/covidgame/test/CovidTest.class
+com/au/covidgame/utils/TestUtilities.class
+com/au/covidgame/utils/ExtentReporting.class
+com/au/covidgame/utils/TestListener.class

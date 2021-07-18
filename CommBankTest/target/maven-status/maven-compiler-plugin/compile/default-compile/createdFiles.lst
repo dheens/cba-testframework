@@ -1,0 +1,4 @@
+com/au/covidgame/pages/HomePage.class
+com/au/covidgame/util/PropertyUtils.class
+com/au/covidgame/pages/BasePage.class
+com/au/covidgame/pages/ChallengeHomePage.class
