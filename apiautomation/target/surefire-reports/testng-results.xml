@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="All Test Suite" duration-ms="8081" started-at="2021-07-18T10:42:46Z" finished-at="2021-07-18T10:42:54Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="8081" started-at="2021-07-18T10:42:46Z" finished-at="2021-07-18T10:42:54Z">
+      <class name="com.cbatest.Tests.superVillainTest">
+        <test-method status="PASS" signature="AddNewUser()[pri:0, instance:com.cbatest.Tests.superVillainTest@4cb2c100]" name="AddNewUser" duration-ms="4919" started-at="2021-07-18T20:42:46Z" finished-at="2021-07-18T20:42:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AddNewUser -->
+        <test-method status="PASS" signature="GetUser()[pri:0, instance:com.cbatest.Tests.superVillainTest@4cb2c100]" name="GetUser" duration-ms="1489" started-at="2021-07-18T20:42:51Z" finished-at="2021-07-18T20:42:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- GetUser -->
+        <test-method status="PASS" signature="UpdateUser()[pri:0, instance:com.cbatest.Tests.superVillainTest@4cb2c100]" name="UpdateUser" duration-ms="1661" started-at="2021-07-18T20:42:52Z" finished-at="2021-07-18T20:42:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- UpdateUser -->
+      </class> <!-- com.cbatest.Tests.superVillainTest -->
+    </test> <!-- Test -->
+  </suite> <!-- All Test Suite -->
+</testng-results>
